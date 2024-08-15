@@ -1,1 +1,2 @@
 set-executionpolicy unrestricted
+hashcat password.txt -m 16500 -a3
